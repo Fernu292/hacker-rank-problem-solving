@@ -1,3 +1,8 @@
-# hacker-rank-problem-solving
+# Hacker Rank solutions
 
-Here youl'll find some of problems from HackerRank for preparing you for a enterview or get a job for pass a technnical test
+
+In this repo you'll find a lot of challenges from Hacker Rank
+A web page where you can train and improve your code skills
+
+My principal language is C++ but you can find code of other languages as Python
+Java, JS
